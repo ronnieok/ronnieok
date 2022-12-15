@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ronnieok
-- 👀 I’m interested in the full system development cycle, but more dev than op :)
-- 🌱 I’m currently learning about system architectures & object oriented programming in C#
+- 👩🏻‍🎓 I'm graduate summer '23 w a Bsc. System Development from University of Borås
+- 👀 I’m interested in the full system development cycle, but more system design than implementation :)
+- 🌱 I’m currently learning about object oriented programming in C# cuzzz it never ends
 - 📫 How to reach me: ronjaokane@gmail.com
 
 <!---
